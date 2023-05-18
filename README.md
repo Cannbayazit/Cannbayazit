@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Jr.Android Developer
 --------------------
 
-I started coding 5 years ago. And for Android, I did an internship on flutter in the summer of 2021. I wanted to continue my business life with Kotlin and now I am developing kotlin.
+I started coding 5 years ago. And for Blazor .Net, I did an internship on flutter in the summer of 2021. I wanted to continue my business life with C# and now I am developing Blazor.
 
 * 🌍  I'm based in Kahramanmaraş
 * ✉️  You can contact me at [bayazitdogancan@gmail.com](mailto:bayazitdogancan@gmail.com)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning Blazor .NET
 
 ### Skills
 
