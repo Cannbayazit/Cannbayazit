@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Doğan Can Bayazıt
 =========================================================================================================================================
 
-Jr.Android Developer
+Frontend Developer
 --------------------
 
-I started coding 5 years ago. And for Blazor .Net, I did an internship on flutter in the summer of 2021. I wanted to continue my business life with C# and now I am developing Blazor.
+I started coding 5 years ago. And for Blazor .Net, I did an internship on flutter in the summer of 2021. I wanted to continue my business life with C# and now I am developing Web application on blazor.
 
 * 🌍  I'm based in Kahramanmaraş
 * ✉️  You can contact me at [bayazitdogancan@gmail.com](mailto:bayazitdogancan@gmail.com)
