@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Can and I'm a frıntend developer from Turkey.</h2>
+<h2 align="center">Hi 👋! My name is Can and I'm a frontend developer from Turkey.</h2>
 
 ###
 
